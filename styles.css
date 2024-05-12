@@ -1,8 +1,8 @@
 /* Define the input font */
 @font-face {
     font-family: 'InputFont';
-    src: url('https://shree-lipi.truefinderstudio.com/fonts/Shree-Lipi.woff2') format('woff2'),
-         url('https://shree-lipi.truefinderstudio.com/fonts/Shree-Lipi.woff') format('woff');
+    src: url('https://shree-lipi-tamil-to-unicode.truefinderstudio.com/fonts/Shree-Lipi.woff2') format('woff2'),
+         url('https://shree-lipi-tamil-to-unicode.truefinderstudio.com/fonts/Shree-Lipi.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -10,8 +10,8 @@
 /* Define the output font */
 @font-face {
     font-family: 'OutputFont';
-    src: url('https://shree-lipi.truefinderstudio.com/fonts/NotoSansTamil.woff2') format('woff2'),
-         url('https://shree-lipi.truefinderstudio.com/fonts/NotoSansTamil.woff') format('woff');
+    src: url('https://shree-lipi-tamil-to-unicode.truefinderstudio.com/fonts/NotoSansTamil.woff2') format('woff2'),
+         url('https://shree-lipi-tamil-to-unicode.truefinderstudio.com/fonts/NotoSansTamil.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
